@@ -35,8 +35,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "starfield",
             "season": 2,
             "day": 0,
@@ -211,8 +211,8 @@
             "ruleName": "Rule 210 Waning Crescent Swamp Penguin"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Moss Landing Daredevils",
             "team2Abbr": "DD",
             "patternName": "vector",
@@ -373,8 +373,8 @@
             "ruleName": "Rule 198 Half Moon Cave Vampire Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "patternName": "vector",
@@ -505,8 +505,8 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "waterfall",
             "season": 2,
             "day": 3,
@@ -715,8 +715,8 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "starfield",
             "season": 2,
             "day": 4,
@@ -877,8 +877,8 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "towers",
             "season": 2,
             "day": 5,
@@ -1021,8 +1021,8 @@
             "ruleName": "Rule 154 New Moon Swamp Finch"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
             "patternName": "river",
@@ -1135,8 +1135,8 @@
     ],
     [
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "patternName": "isotropic",
@@ -1313,8 +1313,8 @@
             "ruleName": "Rule 106 Deep Water Bristlehead"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
             "patternName": "isotropic",
@@ -1509,8 +1509,8 @@
         {
             "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "towers",
             "season": 2,
             "day": 9,
@@ -1687,8 +1687,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "vector",
             "season": 2,
             "day": 10,
@@ -1815,8 +1815,8 @@
             "ruleName": "Rule 198 New Moon Cave Cardinal"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "isotropic",
@@ -2009,8 +2009,8 @@
             "ruleName": "Rule 182 New Moon Deep Water Sheathbill"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "river",
@@ -2171,8 +2171,8 @@
             "ruleName": "Rule 210 New Moon Electric Magpie"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
             "patternName": "towers",
@@ -2303,8 +2303,8 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "vector",
             "season": 2,
             "day": 14,
@@ -2465,8 +2465,8 @@
         {
             "team1Name": "Freedom Fries",
             "team1Abbr": "FFR",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "river",
             "season": 2,
             "day": 15,
@@ -2659,8 +2659,8 @@
         {
             "team1Name": "Davenport Cliff Divers",
             "team1Abbr": "DCD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "starfield",
             "season": 2,
             "day": 16,
@@ -2757,8 +2757,8 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "matrix",
             "season": 2,
             "day": 17,
@@ -2917,8 +2917,8 @@
     ],
     [
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "supercritical",
@@ -3097,8 +3097,8 @@
         {
             "team1Name": "Sand City Sidewinders",
             "team1Abbr": "SCS",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "lighthouse",
             "season": 2,
             "day": 19,
@@ -3243,8 +3243,8 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "river",
             "season": 2,
             "day": 20,
@@ -3437,8 +3437,8 @@
         {
             "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "waterfall",
             "season": 2,
             "day": 21,
@@ -3565,8 +3565,8 @@
     ],
     [
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Sand City Sidewinders",
             "team2Abbr": "SCS",
             "patternName": "supercritical",
@@ -3729,8 +3729,8 @@
         {
             "team1Name": "Carmel Yacht Club",
             "team1Abbr": "CYC",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "isotropic",
             "season": 2,
             "day": 23,
@@ -3891,8 +3891,8 @@
         {
             "team1Name": "Boulder Creek Cardsharps",
             "team1Abbr": "BCC",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "supercritical",
             "season": 2,
             "day": 24,
@@ -4083,8 +4083,8 @@
             "ruleName": "Rule 210 Half Moon Swamp Jumping Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "patternName": "supercritical",
@@ -4277,8 +4277,8 @@
             "ruleName": "Rule 182 Half Moon Cave Tarantula"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
             "patternName": "isotropic",
@@ -4407,8 +4407,8 @@
             "ruleName": "Rule 182 Half Moon Swamp Ground Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Moss Landing Daredevils",
             "team2Abbr": "DD",
             "patternName": "supercritical",
@@ -4601,8 +4601,8 @@
             "ruleName": "Rule 90 Deep Water Oystercatcher"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "lake",
@@ -4731,8 +4731,8 @@
             "ruleName": "Rule 182 New Moon Electric Sun scorpion"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "matrix",
@@ -4925,8 +4925,8 @@
             "ruleName": "Rule 218 Full Moon Deep Water Wind Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
             "patternName": "river",
@@ -5073,8 +5073,8 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "matrix",
             "season": 2,
             "day": 31,
@@ -5187,8 +5187,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "isotropic",
             "season": 2,
             "day": 32,
@@ -5413,8 +5413,8 @@
         {
             "team1Name": "Santa Cruz Bananas",
             "team1Abbr": "SCB",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "lighthouse",
             "season": 2,
             "day": 33,
@@ -5557,8 +5557,8 @@
             "ruleName": "Rule 122 Cave Oriole"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
             "patternName": "lake",
@@ -5735,8 +5735,8 @@
             "ruleName": "Rule 150 Waxing Gibbous Wind Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Carmel Yacht Club",
             "team2Abbr": "CYC",
             "patternName": "river",
@@ -5865,8 +5865,8 @@
             "ruleName": "Rule 90 Quantum Wattlebird"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Boulder Creek Cardsharps",
             "team2Abbr": "BCC",
             "patternName": "lake",
@@ -6013,8 +6013,8 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "isotropic",
             "season": 2,
             "day": 37,
@@ -6175,8 +6175,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "vector",
             "season": 2,
             "day": 38,
@@ -6351,8 +6351,8 @@
             "ruleName": "Rule 198 Waxing Gibbous Thermophilic Funnel Spider"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Monterey Meteorologists",
             "team2Abbr": "MM",
             "patternName": "waterfall",
@@ -6515,8 +6515,8 @@
         {
             "team1Name": "Aptos Investigators",
             "team1Abbr": "AI",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "lake",
             "season": 2,
             "day": 40,
@@ -6691,8 +6691,8 @@
             "ruleName": "Rule 154 Full Moon Swamp Boobie"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Davenport Cliff Divers",
             "team2Abbr": "DCD",
             "patternName": "vector",
@@ -6869,8 +6869,8 @@
             "ruleName": "Rule 14 Swamp Sandgrouse"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
             "patternName": "lake",
@@ -7015,8 +7015,8 @@
             "ruleName": "Rule 218 Waning Gibbous Cave Orb Weaver"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Freedom Fries",
             "team2Abbr": "FFR",
             "patternName": "lighthouse",
@@ -7177,8 +7177,8 @@
             "ruleName": "Rule 214 Waxing Crescent Quantum Vulture"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Santa Cruz Bananas",
             "team2Abbr": "SCB",
             "patternName": "lighthouse",
@@ -7357,8 +7357,8 @@
         {
             "team1Name": "Monterey Meteorologists",
             "team1Abbr": "MM",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "lake",
             "season": 2,
             "day": 45,
@@ -7517,8 +7517,8 @@
             "ruleName": "Rule 110 Quantum Crow"
         },
         {
-            "team1Name": "Seaside Swashbucklers",
-            "team1Abbr": "SSS",
+            "team1Name": "Pacific Grove Monarchists",
+            "team1Abbr": "PGES",
             "team2Name": "Aptos Investigators",
             "team2Abbr": "AI",
             "patternName": "lake",
@@ -7665,8 +7665,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "isotropic",
             "season": 2,
             "day": 47,
@@ -7779,8 +7779,8 @@
         {
             "team1Name": "Moss Landing Daredevils",
             "team1Abbr": "DD",
-            "team2Name": "Seaside Swashbucklers",
-            "team2Abbr": "SSS",
+            "team2Name": "Pacific Grove Monarchists",
+            "team2Abbr": "PGES",
             "patternName": "towers",
             "season": 2,
             "day": 48,
