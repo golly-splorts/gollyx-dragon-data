@@ -12,7 +12,7 @@
                 "rule": "110110001220220002001002120",
                 "ruleName": "Rule 150 Waning Crescent Woodlouse Spider",
                 "description": "Game 1, Monterey Bay League Division Series 1",
-                "id": "1b0e63ef-576d-4125-b86f-efa5120a750f",
+                "gameid": "1b0e63ef-576d-4125-b86f-efa5120a750f",
                 "isPostseason": true
             },
             {
@@ -26,7 +26,7 @@
                 "rule": "000000002000000001212211210",
                 "ruleName": "Rule 30 Quantum Cukoo",
                 "description": "Game 1, Monterey Bay League Division Series 2",
-                "id": "adf39fcb-b4fd-4fc1-8ea5-46c0f5513071",
+                "gameid": "adf39fcb-b4fd-4fc1-8ea5-46c0f5513071",
                 "isPostseason": true
             },
             {
@@ -40,7 +40,7 @@
                 "rule": "111112001221222002001002120",
                 "ruleName": "Rule 214 Waning Crescent Thermophilic Tube Spider",
                 "description": "Game 1, San Francisco Bay League Division Series 1",
-                "id": "7f091a2a-091d-4d15-9762-5ad890f01dd8",
+                "gameid": "7f091a2a-091d-4d15-9762-5ad890f01dd8",
                 "isPostseason": true
             },
             {
@@ -54,7 +54,7 @@
                 "rule": "000000222000000111222111000",
                 "ruleName": "Rule 60 Electric Magpie",
                 "description": "Game 1, San Francisco Bay League Division Series 2",
-                "id": "8585633a-6903-4965-af3e-c1da69a2f645",
+                "gameid": "8585633a-6903-4965-af3e-c1da69a2f645",
                 "isPostseason": true
             }
         ],
@@ -70,7 +70,7 @@
                 "rule": "000000002000000001122211210",
                 "ruleName": "Rule 30 Swamp Moa",
                 "description": "Game 2, Monterey Bay League Division Series 1",
-                "id": "4c35eaee-daee-4030-8ec4-f148bc3a06a1",
+                "gameid": "4c35eaee-daee-4030-8ec4-f148bc3a06a1",
                 "isPostseason": true
             },
             {
@@ -84,7 +84,7 @@
                 "rule": "111112000222221000002001210",
                 "ruleName": "Rule 198 Waning Crescent Swamp Cockatoo",
                 "description": "Game 2, Monterey Bay League Division Series 2",
-                "id": "e3f8f41c-54db-4564-b1b6-aff521a182f3",
+                "gameid": "e3f8f41c-54db-4564-b1b6-aff521a182f3",
                 "isPostseason": true
             },
             {
@@ -98,7 +98,7 @@
                 "rule": "210210122210210211000000210",
                 "ruleName": "Rule 178 Waxing Gibbous Swamp Boobie",
                 "description": "Game 2, San Francisco Bay League Division Series 1",
-                "id": "c6ca5952-5eb0-4f26-bd79-4e57d5207a2c",
+                "gameid": "c6ca5952-5eb0-4f26-bd79-4e57d5207a2c",
                 "isPostseason": true
             },
             {
@@ -112,7 +112,7 @@
                 "rule": "211212001211212002000000120",
                 "ruleName": "Rule 210 Waxing Gibbous Thermophilic Orb Weaver",
                 "description": "Game 2, San Francisco Bay League Division Series 2",
-                "id": "a5ef1240-1b20-468e-9bea-641ae48a7cbc",
+                "gameid": "a5ef1240-1b20-468e-9bea-641ae48a7cbc",
                 "isPostseason": true
             }
         ],
@@ -128,7 +128,7 @@
                 "rule": "220210002210110001110220210",
                 "ruleName": "Rule 154 Full Moon Deep Water Loon",
                 "description": "Game 3, Monterey Bay League Division Series 1",
-                "id": "9740371f-db49-4ed0-83e4-fe0a6c665b32",
+                "gameid": "9740371f-db49-4ed0-83e4-fe0a6c665b32",
                 "isPostseason": true
             },
             {
@@ -142,7 +142,7 @@
                 "rule": "220110111220110222001002120",
                 "ruleName": "Rule 182 Half Moon Deep Water Armor Spider",
                 "description": "Game 3, Monterey Bay League Division Series 2",
-                "id": "7fa69e18-0436-4512-857e-6888e16f8390",
+                "gameid": "7fa69e18-0436-4512-857e-6888e16f8390",
                 "isPostseason": true
             },
             {
@@ -156,7 +156,7 @@
                 "rule": "222112001221111002000000120",
                 "ruleName": "Rule 210 Half Moon Electric Redberry Mite",
                 "description": "Game 3, San Francisco Bay League Division Series 1",
-                "id": "c01c2866-2833-42e1-b566-defb1658d152",
+                "gameid": "c01c2866-2833-42e1-b566-defb1658d152",
                 "isPostseason": true
             },
             {
@@ -170,7 +170,7 @@
                 "rule": "122121002121122001000000210",
                 "ruleName": "Rule 210 Waxing Crescent Cave Vulture",
                 "description": "Game 3, San Francisco Bay League Division Series 2",
-                "id": "a844f009-c486-4f71-aa60-1b4e8edede47",
+                "gameid": "a844f009-c486-4f71-aa60-1b4e8edede47",
                 "isPostseason": true
             }
         ],
@@ -186,7 +186,7 @@
                 "rule": "111112001221222002120120120",
                 "ruleName": "Rule 218 Waning Crescent Thermophilic Sac Spider",
                 "description": "Game 4, Monterey Bay League Division Series 1",
-                "id": "17fe5863-a277-4ffb-8354-71bdb32fa6f6",
+                "gameid": "17fe5863-a277-4ffb-8354-71bdb32fa6f6",
                 "isPostseason": true
             },
             {
@@ -200,7 +200,7 @@
                 "rule": "110120002120220001210120210",
                 "ruleName": "Rule 154 New Moon Cave Wagtail",
                 "description": "Game 4, Monterey Bay League Division Series 2",
-                "id": "c1fbb278-e6a3-4951-b387-7ae1a8567cdc",
+                "gameid": "c1fbb278-e6a3-4951-b387-7ae1a8567cdc",
                 "isPostseason": true
             },
             {
@@ -214,7 +214,7 @@
                 "rule": "222111002221112001000000210",
                 "ruleName": "Rule 210 Half Moon Cave Frogmouth",
                 "description": "Game 4, San Francisco Bay League Division Series 1",
-                "id": "acbe1d80-6846-44e8-a908-da03f5e51116",
+                "gameid": "acbe1d80-6846-44e8-a908-da03f5e51116",
                 "isPostseason": true
             },
             {
@@ -228,7 +228,7 @@
                 "rule": "121122002122121001000000210",
                 "ruleName": "Rule 210 Waxing Crescent Swamp Loon",
                 "description": "Game 4, San Francisco Bay League Division Series 2",
-                "id": "4470802f-360f-4c81-861b-1ca879c2b342",
+                "gameid": "4470802f-360f-4c81-861b-1ca879c2b342",
                 "isPostseason": true
             }
         ],
@@ -244,7 +244,7 @@
                 "rule": "111122002121222001000000210",
                 "ruleName": "Rule 210 New Moon Thermophilic Flamingo",
                 "description": "Game 5, Monterey Bay League Division Series 1",
-                "id": "daca8c61-b5bc-40c4-8b81-178d6d65fafc",
+                "gameid": "daca8c61-b5bc-40c4-8b81-178d6d65fafc",
                 "isPostseason": true
             },
             {
@@ -258,7 +258,7 @@
                 "rule": "120120122120120121002001210",
                 "ruleName": "Rule 182 Waxing Crescent Thermophilic Eagle",
                 "description": "Game 5, Monterey Bay League Division Series 2",
-                "id": "02cf08dc-da1c-4d28-a2b3-2850f21c9f2c",
+                "gameid": "02cf08dc-da1c-4d28-a2b3-2850f21c9f2c",
                 "isPostseason": true
             },
             {
@@ -272,7 +272,7 @@
                 "rule": "111122001122221002001002120",
                 "ruleName": "Rule 214 New Moon Swamp Camel Spider",
                 "description": "Game 5, San Francisco Bay League Division Series 1",
-                "id": "f3a02400-dfea-460d-a914-a10a8067b372",
+                "gameid": "f3a02400-dfea-460d-a914-a10a8067b372",
                 "isPostseason": true
             },
             {
@@ -286,7 +286,7 @@
                 "rule": "120120212120120121000000210",
                 "ruleName": "Rule 178 Waxing Crescent Cave Blackbird",
                 "description": "Game 5, San Francisco Bay League Division Series 2",
-                "id": "4e161814-d767-4bd9-a7d7-50a1def9eabc",
+                "gameid": "4e161814-d767-4bd9-a7d7-50a1def9eabc",
                 "isPostseason": true
             }
         ]
@@ -304,7 +304,7 @@
                 "rule": "111112001221222002001002120",
                 "ruleName": "Rule 214 Waning Crescent Thermophilic Tube Spider",
                 "description": "Game 1, Monterey Bay League Championship Series",
-                "id": "ac0e95a6-6a09-4ef1-9b0d-4a4e4ad16b25",
+                "gameid": "ac0e95a6-6a09-4ef1-9b0d-4a4e4ad16b25",
                 "isPostseason": true
             },
             {
@@ -318,7 +318,7 @@
                 "rule": "110120211120220122001002120",
                 "ruleName": "Rule 182 New Moon Cave Claw Spider",
                 "description": "Game 1, San Francisco Bay League Championship Series",
-                "id": "e07bba5d-da81-4c83-9b7f-5beaf561576e",
+                "gameid": "e07bba5d-da81-4c83-9b7f-5beaf561576e",
                 "isPostseason": true
             }
         ],
@@ -334,7 +334,7 @@
                 "rule": "212211001211212002000000120",
                 "ruleName": "Rule 210 Waxing Gibbous Cave Sun scorpion",
                 "description": "Game 2, Monterey Bay League Championship Series",
-                "id": "1b1d09a2-133d-4258-9037-74a6bc3dee76",
+                "gameid": "1b1d09a2-133d-4258-9037-74a6bc3dee76",
                 "isPostseason": true
             },
             {
@@ -348,7 +348,7 @@
                 "rule": "111122000121222000001002120",
                 "ruleName": "Rule 198 New Moon Thermophilic Orb Weaver",
                 "description": "Game 2, San Francisco Bay League Championship Series",
-                "id": "177b01d5-d83b-4c07-8dd4-c58ebff2a5c2",
+                "gameid": "177b01d5-d83b-4c07-8dd4-c58ebff2a5c2",
                 "isPostseason": true
             }
         ],
@@ -364,7 +364,7 @@
                 "rule": "112111000221222000001002120",
                 "ruleName": "Rule 198 Waning Crescent Cave Camel Spider",
                 "description": "Game 3, Monterey Bay League Championship Series",
-                "id": "32c1fe95-b5d2-46a0-abfe-af447d6e1bd7",
+                "gameid": "32c1fe95-b5d2-46a0-abfe-af447d6e1bd7",
                 "isPostseason": true
             },
             {
@@ -378,7 +378,7 @@
                 "rule": "110120121120220212001002120",
                 "ruleName": "Rule 182 New Moon Swamp Silk Spider",
                 "description": "Game 3, San Francisco Bay League Championship Series",
-                "id": "f9d54368-ae77-43da-bf18-4fa2ad8577a9",
+                "gameid": "f9d54368-ae77-43da-bf18-4fa2ad8577a9",
                 "isPostseason": true
             }
         ],
@@ -394,7 +394,7 @@
                 "rule": "112112002221221001000000210",
                 "ruleName": "Rule 210 Waning Crescent Electric Eagle",
                 "description": "Game 4, Monterey Bay League Championship Series",
-                "id": "99a562d5-8e2c-4ba1-b005-8fb302c7382e",
+                "gameid": "99a562d5-8e2c-4ba1-b005-8fb302c7382e",
                 "isPostseason": true
             },
             {
@@ -408,7 +408,7 @@
                 "rule": "222221000112111000001002120",
                 "ruleName": "Rule 198 Waning Gibbous Quantum Jumping Spider",
                 "description": "Game 4, San Francisco Bay League Championship Series",
-                "id": "839cb240-59ac-469a-bb9f-81449d3643de",
+                "gameid": "839cb240-59ac-469a-bb9f-81449d3643de",
                 "isPostseason": true
             }
         ],
@@ -424,7 +424,7 @@
                 "rule": "210210002210210001120120210",
                 "ruleName": "Rule 154 Waxing Gibbous Thermophilic Shoebills",
                 "description": "Game 5, Monterey Bay League Championship Series",
-                "id": "c33267aa-e258-40c4-838f-f1221deec48c",
+                "gameid": "c33267aa-e258-40c4-838f-f1221deec48c",
                 "isPostseason": true
             },
             {
@@ -438,7 +438,7 @@
                 "rule": "220220001110110002110220120",
                 "ruleName": "Rule 154 Waning Gibbous Deep Water Cheese Mite",
                 "description": "Game 5, San Francisco Bay League Championship Series",
-                "id": "ede4780f-3514-47aa-9319-ee532d0d5e19",
+                "gameid": "ede4780f-3514-47aa-9319-ee532d0d5e19",
                 "isPostseason": true
             }
         ]
@@ -455,7 +455,7 @@
                 "ruleName": "Rule 150 Waning Gibbous Cardinal",
                 "description": "Game 1, Dragon Cup",
                 "season": 5,
-                "id": "fd401981-2466-409c-b334-bfd5347505c8",
+                "gameid": "fd401981-2466-409c-b334-bfd5347505c8",
                 "isPostseason": true
             }
         ],
@@ -470,7 +470,7 @@
                 "ruleName": "Rule 122 Deep Water Mousebird",
                 "description": "Game 2, Dragon Cup",
                 "season": 5,
-                "id": "23603238-c8f3-4552-8b56-a594728b5a24",
+                "gameid": "23603238-c8f3-4552-8b56-a594728b5a24",
                 "isPostseason": true
             }
         ],
@@ -485,7 +485,7 @@
                 "ruleName": "Rule 182 Waxing Crescent Electric Waterfowl",
                 "description": "Game 3, Dragon Cup",
                 "season": 5,
-                "id": "aa91928a-d3ab-4f23-91d9-072f71ceb54c",
+                "gameid": "aa91928a-d3ab-4f23-91d9-072f71ceb54c",
                 "isPostseason": true
             }
         ],
@@ -500,7 +500,7 @@
                 "ruleName": "Rule 210 Half Moon Electric Cukoo",
                 "description": "Game 4, Dragon Cup",
                 "season": 5,
-                "id": "6b40d387-c699-4399-a2a1-57c3eaaf6bf8",
+                "gameid": "6b40d387-c699-4399-a2a1-57c3eaaf6bf8",
                 "isPostseason": true
             }
         ],
@@ -515,7 +515,7 @@
                 "ruleName": "Rule 214 New Moon Thermophilic Buzzard",
                 "description": "Game 5, Dragon Cup",
                 "season": 5,
-                "id": "f3865e4a-21c6-4ec6-bf84-acf6f151d9be",
+                "gameid": "f3865e4a-21c6-4ec6-bf84-acf6f151d9be",
                 "isPostseason": true
             }
         ],
@@ -530,7 +530,7 @@
                 "ruleName": "Rule 182 Waning Crescent Swamp Thrush",
                 "description": "Game 6, Dragon Cup",
                 "season": 5,
-                "id": "52896a29-ae4b-45d8-83e1-78a7eff430d5",
+                "gameid": "52896a29-ae4b-45d8-83e1-78a7eff430d5",
                 "isPostseason": true
             }
         ],
@@ -545,7 +545,7 @@
                 "ruleName": "Rule 198 New Moon Swamp Longspur",
                 "description": "Game 7, Dragon Cup",
                 "season": 5,
-                "id": "ca26198b-4507-4bf9-9817-8ab3db1a2e7e",
+                "gameid": "ca26198b-4507-4bf9-9817-8ab3db1a2e7e",
                 "isPostseason": true
             }
         ]
