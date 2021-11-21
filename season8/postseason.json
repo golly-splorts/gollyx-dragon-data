@@ -1,0 +1,1355 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "PGM",
+                "team2Abbr": "DCD",
+                "rule": "210210122210210211002001210",
+                "ruleName": "Rule 182 Waxing Gibbous Swamp Skimmer",
+                "description": "Game 1, Monterey Bay League Division Series 1",
+                "gameid": "5219689f-e7bd-44ad-8100-ed0d2f1d7fbb",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "towers",
+                    "mapName": "Towers",
+                    "initialConditions1": "[{\"0\":[90]}]",
+                    "initialConditions2": "[{\"0\":[92]}]",
+                    "url": "?s1=[{\"0\":[90]}]&s2=[{\"0\":[92]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 52151,
+                "team2Score": 17764,
+                "team1Color": "#e86215",
+                "team2Color": "#f2c57c",
+                "day": 49,
+                "team1PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Moss Landing Daredevils",
+                "team1Abbr": "MM",
+                "team2Abbr": "DD",
+                "rule": "001002120001002120002001210",
+                "ruleName": "Rule 102 Thermophilic Magpie",
+                "description": "Game 1, Monterey Bay League Division Series 2",
+                "gameid": "f6fec002-be95-497d-b5b8-54e5e66b65c8",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "river",
+                    "mapName": "River",
+                    "initialConditions1": "[{\"0\":[0,1,2,3,4,8,9,10,11,32,33,48,54,55,56,72,73,89,113,114,132,133,134,135,136,137,141,142,156,157,158,172,173,174,199]}]",
+                    "initialConditions2": "[{\"0\":[6,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,36,37,38,39,40,41,42,43,50,58,59,60,61,62,63,64,85,86,87,94,95,124,125,139,151,152,153,154,161,162,163,164,178]}]",
+                    "url": "?s1=[{\"0\":[0,1,2,3,4,8,9,10,11,32,33,48,54,55,56,72,73,89,113,114,132,133,134,135,136,137,141,142,156,157,158,172,173,174,199]}]&s2=[{\"0\":[6,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,36,37,38,39,40,41,42,43,50,58,59,60,61,62,63,64,85,86,87,94,95,124,125,139,151,152,153,154,161,162,163,164,178]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 24005,
+                "team2Score": 23376,
+                "team1Color": "#ff66cc",
+                "team2Color": "#9963ab",
+                "day": 49,
+                "team1PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Sutro Tower",
+                "team1Abbr": "SJA",
+                "team2Abbr": "ST",
+                "rule": "221222001112111002000000120",
+                "ruleName": "Rule 210 Waning Gibbous Swamp Spider Mite",
+                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "gameid": "51c76a81-ac63-450a-9ff4-0342534b6f3a",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "waterfall",
+                    "mapName": "Waterfall",
+                    "initialConditions1": "[{\"0\":[0,2,8,10,17,18,19,20,21,23,24,25,26,27,31,36,49,50,55,57,59,62,63,65,80,81,83,93,94,97,102,103,104,105,124,133,137,139,143,145,149,151,155,158,159,164,166,167,169,174,175,176,177,180,181,182,184,185,190,191,199]}]",
+                    "initialConditions2": "[{\"0\":[5,9,22,28,29,30,35,37,45,46,47,48,51,52,53,54,56,58,60,61,64,66,67,70,74,75,76,82,84,95,101,123,125,134,135,136,138,140,141,142,144,148,150,152,153,160,163,165,168,178,179,183,186,187,188,189,192,193,194,197,198]}]",
+                    "url": "?s1=[{\"0\":[0,2,8,10,17,18,19,20,21,23,24,25,26,27,31,36,49,50,55,57,59,62,63,65,80,81,83,93,94,97,102,103,104,105,124,133,137,139,143,145,149,151,155,158,159,164,166,167,169,174,175,176,177,180,181,182,184,185,190,191,199]}]&s2=[{\"0\":[5,9,22,28,29,30,35,37,45,46,47,48,51,52,53,54,56,58,60,61,64,66,67,70,74,75,76,82,84,95,101,123,125,134,135,136,138,140,141,142,144,148,150,152,153,160,163,165,168,178,179,183,186,187,188,189,192,193,194,197,198]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 11451,
+                "team2Score": 8703,
+                "team1Color": "#53917e",
+                "team2Color": "#ff1717",
+                "day": 49,
+                "team1PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SBC",
+                "rule": "220110001220110002210210120",
+                "ruleName": "Rule 154 Half Moon Quantum Armor Spider",
+                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "gameid": "cb174b0a-1beb-4ed8-862c-8b58f8d82490",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "supercritical",
+                    "mapName": "Supercritical VIII",
+                    "initialConditions1": "[{\"0\":[6,9,40,99,103,106,181,187]}]",
+                    "initialConditions2": "[{\"0\":[5,10,39,100,104,105,180,188]}]",
+                    "url": "?s1=[{\"0\":[6,9,40,99,103,106,181,187]}]&s2=[{\"0\":[5,10,39,100,104,105,180,188]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 8155,
+                "team2Score": 5432,
+                "team1Color": "#d41199",
+                "team2Color": "#0dab76",
+                "day": 49,
+                "team1PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Pacific Grove Monarchists",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "PGM",
+                "team2Abbr": "DCD",
+                "rule": "122122002121121001002001210",
+                "ruleName": "Rule 214 Waxing Crescent Electric Pigeon",
+                "description": "Game 2, Monterey Bay League Division Series 1",
+                "gameid": "34cfc3a0-5511-4158-8276-6f2e0ab201f1",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lake",
+                    "mapName": "Lake VI",
+                    "initialConditions1": "[{\"0\":[33,34,35,36,37,38,40,47,50,51,52,53,54,55,56,57,58,59,60,61,99,119,120,121,122,123,124,128,129,130,131,132,133,134,146,148,149,150,151,155,156,159]}]",
+                    "initialConditions2": "[{\"0\":[0,1,2,3,7,8,11,12,13,14,15,16,17,18,28,29,66,67,68,69,70,71,72,80,81,89,92,94,95,96,97,98,165,166,167,181,191,192,195]}]",
+                    "url": "?s1=[{\"0\":[33,34,35,36,37,38,40,47,50,51,52,53,54,55,56,57,58,59,60,61,99,119,120,121,122,123,124,128,129,130,131,132,133,134,146,148,149,150,151,155,156,159]}]&s2=[{\"0\":[0,1,2,3,7,8,11,12,13,14,15,16,17,18,28,29,66,67,68,69,70,71,72,80,81,89,92,94,95,96,97,98,165,166,167,181,191,192,195]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 30539,
+                "team2Score": 32106,
+                "team1Color": "#e86215",
+                "team2Color": "#f2c57c",
+                "day": 50,
+                "team1PostseasonWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Moss Landing Daredevils",
+                "team1Abbr": "MM",
+                "team2Abbr": "DD",
+                "rule": "000000211000000212211212120",
+                "ruleName": "Rule 62 Quantum Wolf Spider",
+                "description": "Game 2, Monterey Bay League Division Series 2",
+                "gameid": "087f8e03-e9d9-42eb-8a31-226afc816826",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "vector",
+                    "mapName": "Vector I",
+                    "initialConditions1": "[{\"0\":[0,1,8,9,11,12,13,15,18,21,23,25,26,29,31,32,34,36,37,38,39,44,45,48,49,53,54,55,59,61,63,65,66,67,71,72,73,74,78,81,82,84,85,88,90,92,93,96,97,99]}]",
+                    "initialConditions2": "[{\"0\":[100,105,106,111,115,116,123,124,125,126,127,128,131,132,133,134,135,136,137,138,139,141,143,145,148,154,156,157,158,161,164,166,168,169,170,172,174,175,176,178,179,181,182,183,184,185,186,187,192,198]}]",
+                    "url": "?s1=[{\"0\":[0,1,8,9,11,12,13,15,18,21,23,25,26,29,31,32,34,36,37,38,39,44,45,48,49,53,54,55,59,61,63,65,66,67,71,72,73,74,78,81,82,84,85,88,90,92,93,96,97,99]}]&s2=[{\"0\":[100,105,106,111,115,116,123,124,125,126,127,128,131,132,133,134,135,136,137,138,139,141,143,145,148,154,156,157,158,161,164,166,168,169,170,172,174,175,176,178,179,181,182,183,184,185,186,187,192,198]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 31778,
+                "team2Score": 29723,
+                "team1Color": "#ff66cc",
+                "team2Color": "#9963ab",
+                "day": 50,
+                "team1PostseasonWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Sutro Tower",
+                "team1Abbr": "SJA",
+                "team2Abbr": "ST",
+                "rule": "220110211220110212001002120",
+                "ruleName": "Rule 182 Half Moon Quantum Sun Spider",
+                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "gameid": "d1243aff-248e-40c3-87a4-0e79a58816ac",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lighthouse",
+                    "mapName": "Lighthouse III",
+                    "initialConditions1": "[{\"0\":[35,82]}]",
+                    "initialConditions2": "[{\"0\":[130,176]}]",
+                    "url": "?s1=[{\"0\":[35,82]}]&s2=[{\"0\":[130,176]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 36930,
+                "team2Score": 37080,
+                "team1Color": "#53917e",
+                "team2Color": "#ff1717",
+                "day": 50,
+                "team1PostseasonWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SBC",
+                "rule": "112121001122221002210210120",
+                "ruleName": "Rule 218 New Moon Quantum Mouse Spider",
+                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "gameid": "c36e527d-6c56-4a98-8f02-8e7f9c28ac18",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "waterfall",
+                    "mapName": "Waterfall",
+                    "initialConditions1": "[{\"0\":[0,4,7,11,12,14,15,17,26,28,29,31,32,40,41,44,50,51,52,54,58,78,92,96,97,99,100,102,104,112,118,119,120,121,122,125,126,128,131,137,139,140,147,150,151,160,161,162,164,176,177,178,179,180,191,193]}]",
+                    "initialConditions2": "[{\"0\":[1,2,3,5,6,9,10,13,16,24,25,27,30,33,42,43,53,55,56,57,59,60,61,62,77,79,95,98,101,103,105,114,115,123,124,127,129,130,132,133,134,135,136,138,141,143,144,145,146,148,149,163]}]",
+                    "url": "?s1=[{\"0\":[0,4,7,11,12,14,15,17,26,28,29,31,32,40,41,44,50,51,52,54,58,78,92,96,97,99,100,102,104,112,118,119,120,121,122,125,126,128,131,137,139,140,147,150,151,160,161,162,164,176,177,178,179,180,191,193]}]&s2=[{\"0\":[1,2,3,5,6,9,10,13,16,24,25,27,30,33,42,43,53,55,56,57,59,60,61,62,77,79,95,98,101,103,105,114,115,123,124,127,129,130,132,133,134,135,136,138,141,143,144,145,146,148,149,163]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 49061,
+                "team2Score": 48565,
+                "team1Color": "#d41199",
+                "team2Color": "#0dab76",
+                "day": 50,
+                "team1PostseasonWinLoss": [
+                    1,
+                    0
+                ],
+                "team2PostseasonWinLoss": [
+                    0,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "PGM",
+                "rule": "221212002211112001000000210",
+                "ruleName": "Rule 210 Full Moon Thermophilic Babbler",
+                "description": "Game 3, Monterey Bay League Division Series 1",
+                "gameid": "51c12c7b-72f9-4806-998d-776968e70e81",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "supercritical",
+                    "mapName": "Supercritical VI",
+                    "initialConditions1": "[{\"0\":[34,75,92,129,162,181]}]",
+                    "initialConditions2": "[{\"0\":[35,76,93,130,161,180]}]",
+                    "url": "?s1=[{\"0\":[34,75,92,129,162,181]}]&s2=[{\"0\":[35,76,93,130,161,180]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 9414,
+                "team2Score": 5176,
+                "team1Color": "#f2c57c",
+                "team2Color": "#e86215",
+                "day": 51,
+                "team1PostseasonWinLoss": [
+                    1,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    1,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Moss Landing Daredevils",
+                "team2Name": "Monterey Meteorologists",
+                "team1Abbr": "DD",
+                "team2Abbr": "MM",
+                "rule": "221222001111112002000000120",
+                "ruleName": "Rule 210 Waning Gibbous Thermophilic Sun scorpion",
+                "description": "Game 3, Monterey Bay League Division Series 2",
+                "gameid": "ab8558b1-42f3-48a2-9e77-9b39409caf30",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "matrix",
+                    "mapName": "Matrix I",
+                    "initialConditions1": "[{\"0\":[1,3,8,9,11,13,22,30,38,43,44,45,47,55,57,59,63,75,76,79,92,96,97,104,125,132,133,134,135,140,143,144,150,155,158,160,163,171,172,175,177,181,184,185,189,190,193,194,197,198]}]",
+                    "initialConditions2": "[{\"0\":[2,4,6,15,20,24,26,27,29,32,33,35,36,40,42,52,54,56,61,64,65,67,69,78,81,82,83,85,102,108,115,118,121,123,131,136,142,145,147,148,152,153,157,176,179,182,186,191,192,199]}]",
+                    "url": "?s1=[{\"0\":[1,3,8,9,11,13,22,30,38,43,44,45,47,55,57,59,63,75,76,79,92,96,97,104,125,132,133,134,135,140,143,144,150,155,158,160,163,171,172,175,177,181,184,185,189,190,193,194,197,198]}]&s2=[{\"0\":[2,4,6,15,20,24,26,27,29,32,33,35,36,40,42,52,54,56,61,64,65,67,69,78,81,82,83,85,102,108,115,118,121,123,131,136,142,145,147,148,152,153,157,176,179,182,186,191,192,199]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 7424,
+                "team2Score": 8582,
+                "team1Color": "#9963ab",
+                "team2Color": "#ff66cc",
+                "day": 51,
+                "team1PostseasonWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "Sutro Tower",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "ST",
+                "team2Abbr": "SJA",
+                "rule": "002002220001001110220110120",
+                "ruleName": "Rule 106 Electric Funnel Spider",
+                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "gameid": "c91721e6-ca49-4a4c-a55a-3644564da2ef",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lake",
+                    "mapName": "Lake VII",
+                    "initialConditions1": "[{\"0\":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,21,75,76,79,80,95,96,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,166,167,169,173,174]}]",
+                    "initialConditions2": "[{\"0\":[25,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,50,51,52,53,54,55,56,57,58,100,102,110,120,121,122,123,124,175,176,177,186,188,189,190,195,197,198,199]}]",
+                    "url": "?s1=[{\"0\":[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,21,75,76,79,80,95,96,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,166,167,169,173,174]}]&s2=[{\"0\":[25,26,27,28,29,30,31,32,33,34,37,38,39,40,41,42,43,44,45,46,47,50,51,52,53,54,55,56,57,58,100,102,110,120,121,122,123,124,175,176,177,186,188,189,190,195,197,198,199]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 5576,
+                "team2Score": 5145,
+                "team1Color": "#ff1717",
+                "team2Color": "#53917e",
+                "day": 51,
+                "team1PostseasonWinLoss": [
+                    1,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    1,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SBC",
+                "team2Abbr": "BBR",
+                "rule": "111112002221222001000000210",
+                "ruleName": "Rule 210 Waning Crescent Thermophilic Boobie",
+                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "gameid": "b16b87ac-e95e-4f71-84b6-11ac5c7aa835",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "towers",
+                    "mapName": "Towers",
+                    "initialConditions1": "[{\"0\":[110]}]",
+                    "initialConditions2": "[{\"0\":[71]}]",
+                    "url": "?s1=[{\"0\":[110]}]&s2=[{\"0\":[71]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 666,
+                "team2Score": 10407,
+                "team1Color": "#0dab76",
+                "team2Color": "#d41199",
+                "day": 51,
+                "team1PostseasonWinLoss": [
+                    0,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    2,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 8,
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Pacific Grove Monarchists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "PGM",
+                "rule": "221112001222111002000000120",
+                "ruleName": "Rule 210 Half Moon Swamp Jumping Spider",
+                "description": "Game 4, Monterey Bay League Division Series 1",
+                "gameid": "8edffcc1-1ddf-45d1-8e28-5fd6f03ecdb5",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "isotropic",
+                    "mapName": "Isotropic V",
+                    "initialConditions1": "[{\"0\":[39,40,51,56,59,65,101,109,113,114,126,129,141,142,146,153,159,164]}]",
+                    "initialConditions2": "[{\"0\":[3,14,15,16,19,32,68,69,70,76,81,97,165,167,174,178,180,184]}]",
+                    "url": "?s1=[{\"0\":[39,40,51,56,59,65,101,109,113,114,126,129,141,142,146,153,159,164]}]&s2=[{\"0\":[3,14,15,16,19,32,68,69,70,76,81,97,165,167,174,178,180,184]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 8024,
+                "team2Score": 5893,
+                "team1Color": "#f2c57c",
+                "team2Color": "#e86215",
+                "day": 52,
+                "team1PostseasonWinLoss": [
+                    2,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    1,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "Sutro Tower",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "ST",
+                "team2Abbr": "SJA",
+                "rule": "221221000112112000002001210",
+                "ruleName": "Rule 198 Waning Gibbous Deep Water Skimmer",
+                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "gameid": "9774e211-8b69-4c64-9920-f166c39371c0",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lighthouse",
+                    "mapName": "Lighthouse VII",
+                    "initialConditions1": "[{\"0\":[40,94,116,184]}]",
+                    "initialConditions2": "[{\"0\":[7,59,143,167]}]",
+                    "url": "?s1=[{\"0\":[40,94,116,184]}]&s2=[{\"0\":[7,59,143,167]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 19412,
+                "team2Score": 26059,
+                "team1Color": "#ff1717",
+                "team2Color": "#53917e",
+                "day": 52,
+                "team1PostseasonWinLoss": [
+                    2,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    1,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    2
+                ]
+            }
+        ],
+        [
+            {
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Sutro Tower",
+                "team1Abbr": "SJA",
+                "team2Abbr": "ST",
+                "rule": "221222001111112002120120120",
+                "ruleName": "Rule 218 Waning Gibbous Thermophilic Shepherd Spider",
+                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "gameid": "6afb2ca9-5967-48a5-bb83-f72ffb121811",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "river",
+                    "mapName": "River",
+                    "initialConditions1": "[{\"0\":[0,1,2,3,4,27,28,29,37,44,45,76,77,87,88,89,90,91,92,93,94,95,96,97,98,99,100,118,119,120,121,122,123,140,141,142,143,144,145,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,187,188,189,190,191,192,193,194]}]",
+                    "initialConditions2": "[{\"0\":[21,22,23,24,25,31,32,33,34,39,40,41,58,59,60,61,62,63,64,65,66,67,79,80,81,82,83,84,85,104,105,106,107,108,109,110,138,151,152,153,154,155,156,157,158,159,160,183]}]",
+                    "url": "?s1=[{\"0\":[0,1,2,3,4,27,28,29,37,44,45,76,77,87,88,89,90,91,92,93,94,95,96,97,98,99,100,118,119,120,121,122,123,140,141,142,143,144,145,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,187,188,189,190,191,192,193,194]}]&s2=[{\"0\":[21,22,23,24,25,31,32,33,34,39,40,41,58,59,60,61,62,63,64,65,66,67,79,80,81,82,83,84,85,104,105,106,107,108,109,110,138,151,152,153,154,155,156,157,158,159,160,183]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 47790,
+                "team2Score": 47453,
+                "team1Color": "#53917e",
+                "team2Color": "#ff1717",
+                "day": 53,
+                "team1PostseasonWinLoss": [
+                    2,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    2,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Monterey Meteorologists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "MM",
+                "league": "Monterey Bay League",
+                "season": 8,
+                "rule": "211211002212212001000000210",
+                "ruleName": "Rule 210 Waxing Gibbous Deep Water Harrier",
+                "description": "Game 1, Monterey Bay League Championship Series",
+                "gameid": "00c0e0d2-666f-4a1e-a25b-1cd2b486b804",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "supercritical",
+                    "mapName": "Supercritical VII",
+                    "initialConditions1": "[{\"0\":[37,56,103,117,175,178,187]}]",
+                    "initialConditions2": "[{\"0\":[38,55,104,116,176,179,186]}]",
+                    "url": "?s1=[{\"0\":[37,56,103,117,175,178,187]}]&s2=[{\"0\":[38,55,104,116,176,179,186]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 13251,
+                "team2Score": 1292,
+                "team1Color": "#f2c57c",
+                "team2Color": "#ff66cc",
+                "day": 54,
+                "team1PostseasonWinLoss": [
+                    3,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    3,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SJA",
+                "team2Abbr": "BBR",
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "rule": "220110221220110112001002120",
+                "ruleName": "Rule 182 Half Moon Electric Camel Spider",
+                "description": "Game 1, San Francisco Bay League Championship Series",
+                "gameid": "ded662c2-50bd-419b-b402-a0651f6fa816",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "vector",
+                    "mapName": "Vector III",
+                    "initialConditions1": "[{\"0\":[0,1,3,5,6,7,9,12,15,16,18,20,21,22,23,25,26,29,30,39,42,44,46,47,48,51,53,57,60,62,64,66,68,69,70,74,75,76,78,79,80,81,84,85,88,89,90,91,92,97]}]",
+                    "initialConditions2": "[{\"0\":[100,104,107,112,114,115,117,119,120,121,123,126,127,128,129,130,131,132,133,136,138,140,146,147,149,150,152,154,158,159,160,161,168,172,173,174,175,177,178,179,180,181,183,184,189,191,195,196,198,199]}]",
+                    "url": "?s1=[{\"0\":[0,1,3,5,6,7,9,12,15,16,18,20,21,22,23,25,26,29,30,39,42,44,46,47,48,51,53,57,60,62,64,66,68,69,70,74,75,76,78,79,80,81,84,85,88,89,90,91,92,97]}]&s2=[{\"0\":[100,104,107,112,114,115,117,119,120,121,123,126,127,128,129,130,131,132,133,136,138,140,146,147,149,150,152,154,158,159,160,161,168,172,173,174,175,177,178,179,180,181,183,184,189,191,195,196,198,199]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 37051,
+                "team2Score": 36929,
+                "team1Color": "#53917e",
+                "team2Color": "#d41199",
+                "day": 54,
+                "team1PostseasonWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    3,
+                    0
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "Monterey Meteorologists",
+                "team1Abbr": "DCD",
+                "team2Abbr": "MM",
+                "league": "Monterey Bay League",
+                "season": 8,
+                "rule": "111122001122221002120210120",
+                "ruleName": "Rule 218 New Moon Swamp Tick",
+                "description": "Game 2, Monterey Bay League Championship Series",
+                "gameid": "96f38ab7-e3c3-4e42-8a6f-55defc2a80d9",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "towers",
+                    "mapName": "Towers",
+                    "initialConditions1": "[{\"0\":[147]}]",
+                    "initialConditions2": "[{\"0\":[86]}]",
+                    "url": "?s1=[{\"0\":[147]}]&s2=[{\"0\":[86]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 42580,
+                "team2Score": 42521,
+                "team1Color": "#f2c57c",
+                "team2Color": "#ff66cc",
+                "day": 55,
+                "team1PostseasonWinLoss": [
+                    4,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    3,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SJA",
+                "team2Abbr": "BBR",
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "rule": "112112000221221000002001210",
+                "ruleName": "Rule 198 Waning Crescent Electric Shoebills",
+                "description": "Game 2, San Francisco Bay League Championship Series",
+                "gameid": "646c1a9e-54c8-4c43-aa78-33314df27d76",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lake",
+                    "mapName": "Lake II",
+                    "initialConditions1": "[{\"0\":[0,1,2,4,6,7,8,9,11,20,22,23,24,25,26,40,41,42,43,44,45,46,47,48,49,50,51,52,53,60,61,63,86]}]",
+                    "initialConditions2": "[{\"0\":[100,101,102,103,104,105,106,107,108,109,110,111,112,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,143,144,145,146,147,148,149,150,151,152,153,154,155,157,158,159,160,161,162,166,175,176]}]",
+                    "url": "?s1=[{\"0\":[0,1,2,4,6,7,8,9,11,20,22,23,24,25,26,40,41,42,43,44,45,46,47,48,49,50,51,52,53,60,61,63,86]}]&s2=[{\"0\":[100,101,102,103,104,105,106,107,108,109,110,111,112,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,143,144,145,146,147,148,149,150,151,152,153,154,155,157,158,159,160,161,162,166,175,176]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 21472,
+                "team2Score": 22994,
+                "team1Color": "#53917e",
+                "team2Color": "#d41199",
+                "day": 55,
+                "team1PostseasonWinLoss": [
+                    4,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    3,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "MM",
+                "team2Abbr": "DCD",
+                "league": "Monterey Bay League",
+                "season": 8,
+                "rule": "220220112110110221000000210",
+                "ruleName": "Rule 178 Waning Gibbous Deep Water Nightjar",
+                "description": "Game 3, Monterey Bay League Championship Series",
+                "gameid": "e117c114-21d3-48db-bd15-c5bf7496715b",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "towers",
+                    "mapName": "Towers",
+                    "initialConditions1": "[{\"0\":[99]}]",
+                    "initialConditions2": "[{\"0\":[131]}]",
+                    "url": "?s1=[{\"0\":[99]}]&s2=[{\"0\":[131]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 23132,
+                "team2Score": 23142,
+                "team1Color": "#ff66cc",
+                "team2Color": "#f2c57c",
+                "day": 56,
+                "team1PostseasonWinLoss": [
+                    3,
+                    2
+                ],
+                "team2PostseasonWinLoss": [
+                    5,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SJA",
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "rule": "221212002212111001000000210",
+                "ruleName": "Rule 210 Full Moon Swamp Puffin",
+                "description": "Game 3, San Francisco Bay League Championship Series",
+                "gameid": "f6a40b56-9eb8-4421-bf4d-79fe7e53787d",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "waterfall",
+                    "mapName": "Waterfall",
+                    "initialConditions1": "[{\"0\":[7,11,15,16,17,20,21,24,25,35,51,52,53,69,71,72,76,78,79,80,84,86,87,90,95,101,108,110,117,119,122,125,132,135,149,150,157,160,163,175,178,179,180,181,192,193,194,195,197]}]",
+                    "initialConditions2": "[{\"0\":[0,2,3,8,9,10,12,13,14,19,22,23,46,50,55,58,59,73,74,77,81,82,83,85,88,92,93,100,102,109,118,121,123,124,133,134,136,137,138,139,158,159,161,162,164,165,168,176,189,190,191,196,198,199]}]",
+                    "url": "?s1=[{\"0\":[7,11,15,16,17,20,21,24,25,35,51,52,53,69,71,72,76,78,79,80,84,86,87,90,95,101,108,110,117,119,122,125,132,135,149,150,157,160,163,175,178,179,180,181,192,193,194,195,197]}]&s2=[{\"0\":[0,2,3,8,9,10,12,13,14,19,22,23,46,50,55,58,59,73,74,77,81,82,83,85,88,92,93,100,102,109,118,121,123,124,133,134,136,137,138,139,158,159,161,162,164,165,168,176,189,190,191,196,198,199]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 11066,
+                "team2Score": 7314,
+                "team1Color": "#d41199",
+                "team2Color": "#53917e",
+                "day": 56,
+                "team1PostseasonWinLoss": [
+                    4,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    4,
+                    3
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SJA",
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "rule": "222212000211111000001002120",
+                "ruleName": "Rule 198 Full Moon Electric Sac Spider",
+                "description": "Game 4, San Francisco Bay League Championship Series",
+                "gameid": "113120b7-eadc-434a-8839-7a30b54c7608",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "starfield",
+                    "mapName": "Starfield VI",
+                    "initialConditions1": "[{\"0\":[16,23,59,89,101,157]}]",
+                    "initialConditions2": "[{\"0\":[108,123,126,131,145,184]}]",
+                    "url": "?s1=[{\"0\":[16,23,59,89,101,157]}]&s2=[{\"0\":[108,123,126,131,145,184]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 22815,
+                "team2Score": 22838,
+                "team1Color": "#d41199",
+                "team2Color": "#53917e",
+                "day": 57,
+                "team1PostseasonWinLoss": [
+                    5,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    4,
+                    4
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    1
+                ],
+                "team2SeriesWinLoss": [
+                    1,
+                    2
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SJA",
+                "team2Abbr": "BBR",
+                "league": "San Francisco Bay League",
+                "season": 8,
+                "rule": "112111001222221002210210120",
+                "ruleName": "Rule 218 Waning Crescent Quantum Shepherd Spider",
+                "description": "Game 5, San Francisco Bay League Championship Series",
+                "gameid": "1a4ff0e9-b3c3-4184-a3ac-b04f3f967136",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "river",
+                    "mapName": "River",
+                    "initialConditions1": "[{\"0\":[0,1,2,3,4,5,6,7,8,25,26,27,28,29,30,31,32,33,34,35,44,45,46,63,91,112,113,136,137,156,157,158,159,160,161,162,170]}]",
+                    "initialConditions2": "[{\"0\":[14,15,16,17,18,19,20,21,22,23,39,52,53,54,55,89,104,105,124,125,126,127,128,129,130,131,132,133,142,143,144,145,146,147,148,149,168,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194]}]",
+                    "url": "?s1=[{\"0\":[0,1,2,3,4,5,6,7,8,25,26,27,28,29,30,31,32,33,34,35,44,45,46,63,91,112,113,136,137,156,157,158,159,160,161,162,170]}]&s2=[{\"0\":[14,15,16,17,18,19,20,21,22,23,39,52,53,54,55,89,104,105,124,125,126,127,128,129,130,131,132,133,142,143,144,145,146,147,148,149,168,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 49384,
+                "team2Score": 47936,
+                "team1Color": "#53917e",
+                "team2Color": "#d41199",
+                "day": 58,
+                "team1PostseasonWinLoss": [
+                    5,
+                    4
+                ],
+                "team2PostseasonWinLoss": [
+                    5,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    2,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    2
+                ]
+            }
+        ]
+    ],
+    "DCS": [
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "DCD",
+                "team2Abbr": "SJA",
+                "rule": "000000222000000111222111210",
+                "ruleName": "Rule 62 Electric Bristlehead",
+                "description": "Game 1, Dragon Cup",
+                "season": 8,
+                "gameid": "1eb1e6af-bce5-49e8-8ab0-057ea9e9eee3",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "supercritical",
+                    "mapName": "Supercritical III",
+                    "initialConditions1": "[{\"0\":[9,136,152]}]",
+                    "initialConditions2": "[{\"0\":[8,135,151]}]",
+                    "url": "?s1=[{\"0\":[9,136,152]}]&s2=[{\"0\":[8,135,151]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 49996,
+                "team2Score": 8725,
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e",
+                "day": 59,
+                "team1PostseasonWinLoss": [
+                    6,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    6,
+                    4
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "DCD",
+                "team2Abbr": "SJA",
+                "rule": "222211002212111001000000210",
+                "ruleName": "Rule 210 Full Moon Quantum Buttonquail",
+                "description": "Game 2, Dragon Cup",
+                "season": 8,
+                "gameid": "052804e6-b41c-4dbf-a538-89d0edbadc7a",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "matrix",
+                    "mapName": "Matrix IV",
+                    "initialConditions1": "[{\"0\":[50,59,60,61,65,66,70,82,87,89,95,96,97,101,104,112,113,114,118,120,127,143,144,145,146,149,151,156,157,162,170,171,172,175,178,184,186,187,198]}]",
+                    "initialConditions2": "[{\"0\":[53,54,62,72,74,75,76,86,91,92,94,98,100,102,106,108,111,115,122,130,131,132,141,142,152,154,158,161,164,165,167,168,174,177,195,199]}]",
+                    "url": "?s1=[{\"0\":[50,59,60,61,65,66,70,82,87,89,95,96,97,101,104,112,113,114,118,120,127,143,144,145,146,149,151,156,157,162,170,171,172,175,178,184,186,187,198]}]&s2=[{\"0\":[53,54,62,72,74,75,76,86,91,92,94,98,100,102,106,108,111,115,122,130,131,132,141,142,152,154,158,161,164,165,167,168,174,177,195,199]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 15142,
+                "team2Score": 2216,
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e",
+                "day": 60,
+                "team1PostseasonWinLoss": [
+                    7,
+                    1
+                ],
+                "team2PostseasonWinLoss": [
+                    6,
+                    5
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    0
+                ],
+                "team2SeriesWinLoss": [
+                    0,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "SJA",
+                "team2Abbr": "DCD",
+                "rule": "110110121220220212000000120",
+                "ruleName": "Rule 178 Waning Crescent Swamp Sea Spider",
+                "description": "Game 3, Dragon Cup",
+                "season": 8,
+                "gameid": "68ebf869-c0b5-47ca-a562-f9fa87ce53e5",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "lighthouse",
+                    "mapName": "Lighthouse III",
+                    "initialConditions1": "[{\"0\":[146,176]}]",
+                    "initialConditions2": "[{\"0\":[29,78]}]",
+                    "url": "?s1=[{\"0\":[146,176]}]&s2=[{\"0\":[29,78]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 24927,
+                "team2Score": 23777,
+                "team1Color": "#53917e",
+                "team2Color": "#f2c57c",
+                "day": 61,
+                "team1PostseasonWinLoss": [
+                    6,
+                    6
+                ],
+                "team2PostseasonWinLoss": [
+                    8,
+                    1
+                ],
+                "team1SeriesWinLoss": [
+                    0,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    0
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "SJA",
+                "team2Abbr": "DCD",
+                "rule": "221221002112112001000000210",
+                "ruleName": "Rule 210 Waning Gibbous Deep Water Fantail",
+                "description": "Game 4, Dragon Cup",
+                "season": 8,
+                "gameid": "169c06a5-7038-448d-8eed-bb6673e093ce",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "vector",
+                    "mapName": "Vector IV",
+                    "initialConditions1": "[{\"0\":[102,104,106,108,110,115,117,118,120,121,122,123,124,125,129,130,131,133,135,138,141,142,143,145,147,153,154,156,159,161,162,164,166,167,168,169,171,173,175,180,181,182,185,190,192,194,196,197,198,199]}]",
+                    "initialConditions2": "[{\"0\":[1,5,10,12,13,14,16,17,18,21,24,27,28,30,31,34,35,38,40,43,44,45,46,48,49,50,51,52,53,54,55,57,61,62,65,67,69,71,74,75,76,78,79,80,85,89,91,93,94,95]}]",
+                    "url": "?s1=[{\"0\":[102,104,106,108,110,115,117,118,120,121,122,123,124,125,129,130,131,133,135,138,141,142,143,145,147,153,154,156,159,161,162,164,166,167,168,169,171,173,175,180,181,182,185,190,192,194,196,197,198,199]}]&s2=[{\"0\":[1,5,10,12,13,14,16,17,18,21,24,27,28,30,31,34,35,38,40,43,44,45,46,48,49,50,51,52,53,54,55,57,61,62,65,67,69,71,74,75,76,78,79,80,85,89,91,93,94,95]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 4489,
+                "team2Score": 12914,
+                "team1Color": "#53917e",
+                "team2Color": "#f2c57c",
+                "day": 62,
+                "team1PostseasonWinLoss": [
+                    7,
+                    6
+                ],
+                "team2PostseasonWinLoss": [
+                    8,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "San Jose Avionics",
+                "team2Name": "Davenport Cliff Divers",
+                "team1Abbr": "SJA",
+                "team2Abbr": "DCD",
+                "rule": "121122001121122002001002120",
+                "ruleName": "Rule 214 Waxing Crescent Thermophilic Armor Spider",
+                "description": "Game 5, Dragon Cup",
+                "season": 8,
+                "gameid": "a79a948d-6a43-44ac-b389-cc2734e2a2d6",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "towers",
+                    "mapName": "Towers",
+                    "initialConditions1": "[{\"0\":[100]}]",
+                    "initialConditions2": "[{\"0\":[102]}]",
+                    "url": "?s1=[{\"0\":[100]}]&s2=[{\"0\":[102]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 33873,
+                "team2Score": 22750,
+                "team1Color": "#53917e",
+                "team2Color": "#f2c57c",
+                "day": 63,
+                "team1PostseasonWinLoss": [
+                    7,
+                    7
+                ],
+                "team2PostseasonWinLoss": [
+                    9,
+                    2
+                ],
+                "team1SeriesWinLoss": [
+                    1,
+                    3
+                ],
+                "team2SeriesWinLoss": [
+                    3,
+                    1
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "DCD",
+                "team2Abbr": "SJA",
+                "rule": "002002002001001001220110210",
+                "ruleName": "Rule 90 Electric Harrier",
+                "description": "Game 6, Dragon Cup",
+                "season": 8,
+                "gameid": "08b09a48-fbc1-41ac-bcdc-46b1a23de5e6",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "starfield",
+                    "mapName": "Starfield VIII",
+                    "initialConditions1": "[{\"0\":[43,92,98,148,151,152,192,198]}]",
+                    "initialConditions2": "[{\"0\":[7,19,28,64,79,142,153,174]}]",
+                    "url": "?s1=[{\"0\":[43,92,98,148,151,152,192,198]}]&s2=[{\"0\":[7,19,28,64,79,142,153,174]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 2546,
+                "team2Score": 40287,
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e",
+                "day": 64,
+                "team1PostseasonWinLoss": [
+                    9,
+                    3
+                ],
+                "team2PostseasonWinLoss": [
+                    8,
+                    7
+                ],
+                "team1SeriesWinLoss": [
+                    3,
+                    2
+                ],
+                "team2SeriesWinLoss": [
+                    2,
+                    3
+                ]
+            }
+        ],
+        [
+            {
+                "team1Name": "Davenport Cliff Divers",
+                "team2Name": "San Jose Avionics",
+                "team1Abbr": "DCD",
+                "team2Abbr": "SJA",
+                "rule": "210210112210210221000000210",
+                "ruleName": "Rule 178 Waxing Gibbous Deep Water Harrier",
+                "description": "Game 7, Dragon Cup",
+                "season": 8,
+                "gameid": "477abf15-ede1-4520-82d8-cac7c2307295",
+                "isPostseason": true,
+                "map": {
+                    "patternName": "isotropic",
+                    "mapName": "Isotropic IV",
+                    "initialConditions1": "[{\"0\":[17,28,47,103,118,126]}]",
+                    "initialConditions2": "[{\"0\":[55,60,62,171,190,194]}]",
+                    "url": "?s1=[{\"0\":[17,28,47,103,118,126]}]&s2=[{\"0\":[55,60,62,171,190,194]}]",
+                    "rows": 500,
+                    "columns": 200,
+                    "cellSize": 3
+                },
+                "team1Score": 24690,
+                "team2Score": 24659,
+                "team1Color": "#f2c57c",
+                "team2Color": "#53917e",
+                "day": 65,
+                "team1PostseasonWinLoss": [
+                    9,
+                    4
+                ],
+                "team2PostseasonWinLoss": [
+                    9,
+                    7
+                ],
+                "team1SeriesWinLoss": [
+                    3,
+                    3
+                ],
+                "team2SeriesWinLoss": [
+                    3,
+                    3
+                ]
+            }
+        ]
+    ]
+}
