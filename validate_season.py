@@ -55,7 +55,10 @@ for iseason in range(LAST_SEASON0 + 1):
 
     def check_id(game):
         if "gameid" not in game:
-            raise Exception(f"Error: missing game id from game {game}")
+            if "id" in game:
+                raise Exception(f"Error: incorrect game id (using old 'id' instead of new 'gameid') from game {game}")
+            else:
+                raise Exception(f"Error: missing game id from game {game}")
 
     def check_name_color_match(game):
         """For a given game ensure the team name matches the team color"""
