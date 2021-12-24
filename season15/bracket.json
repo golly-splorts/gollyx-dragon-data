@@ -1,0 +1,553 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Santa Cruz Bananas",
+                "team1Abbr": "MM",
+                "team2Abbr": "SCB",
+                "patternName": "starfield",
+                "rule": "111112001222221002000000120",
+                "ruleName": "Rule 210 Waning Crescent Swamp Scorpion",
+                "description": "Game 1, Monterey Bay League Division Series 1",
+                "gameid": "8d872d0d-45b3-4334-b013-bb47691f82aa",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Carmel Yacht Club",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "CYC",
+                "team2Abbr": "BCC",
+                "patternName": "isotropic",
+                "rule": "000000001000000002111222120",
+                "ruleName": "Rule 30 Deep Water Lampshade Spider",
+                "description": "Game 1, Monterey Bay League Division Series 2",
+                "gameid": "354400e8-ea93-4cd6-9f62-f85fdadf5904",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SBC",
+                "patternName": "matrix",
+                "rule": "002001210002001210210210120",
+                "ruleName": "Rule 106 Quantum Redberry Mite",
+                "description": "Game 1, San Francisco Bay League Division Series 1",
+                "gameid": "789428fd-956b-4294-b55e-d9c796fb86dc",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "RS",
+                "team2Abbr": "MVM",
+                "patternName": "supercritical",
+                "rule": "110120211120220122000000120",
+                "ruleName": "Rule 178 New Moon Cave Funnel Spider",
+                "description": "Game 1, San Francisco Bay League Division Series 2",
+                "gameid": "ea32b16d-179e-482c-a86c-f7659f3d71da",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Santa Cruz Bananas",
+                "team1Abbr": "MM",
+                "team2Abbr": "SCB",
+                "patternName": "waterfall",
+                "rule": "222222002111111001000000210",
+                "ruleName": "Rule 210 Waning Gibbous Electric Sandgrouse",
+                "description": "Game 2, Monterey Bay League Division Series 1",
+                "gameid": "e36bed58-ee0e-496e-8610-4f7b741e1cb3",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Carmel Yacht Club",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "CYC",
+                "team2Abbr": "BCC",
+                "patternName": "matrix",
+                "rule": "212212001211211002220110120",
+                "ruleName": "Rule 218 Waxing Gibbous Electric Shepherd Spider",
+                "description": "Game 2, Monterey Bay League Division Series 2",
+                "gameid": "406e75b3-dcd5-4d14-935e-b356d2f99c39",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SBC",
+                "patternName": "lake",
+                "rule": "221211001212112002000000120",
+                "ruleName": "Rule 210 Full Moon Deep Water Armor Spider",
+                "description": "Game 2, San Francisco Bay League Division Series 1",
+                "gameid": "e7bbe0a4-ddcf-4665-818a-a6e4deee689f",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "RS",
+                "team2Abbr": "MVM",
+                "patternName": "starfield",
+                "rule": "222222000111111000001002120",
+                "ruleName": "Rule 198 Waning Gibbous Electric Armor Spider",
+                "description": "Game 2, San Francisco Bay League Division Series 2",
+                "gameid": "92342e8f-6543-43b8-895f-94479705dbd4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Santa Cruz Bananas",
+                "team2Name": "Monterey Meteorologists",
+                "team1Abbr": "SCB",
+                "team2Abbr": "MM",
+                "patternName": "river",
+                "rule": "222221002111112001002001210",
+                "ruleName": "Rule 214 Waning Gibbous Cave Falcon",
+                "description": "Game 3, Monterey Bay League Division Series 1",
+                "gameid": "bfe3a184-b581-4e1b-9236-2c14e13e4042",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Carmel Yacht Club",
+                "team1Abbr": "BCC",
+                "team2Abbr": "CYC",
+                "patternName": "waterfall",
+                "rule": "120120121120120122000000120",
+                "ruleName": "Rule 178 Waxing Crescent Thermophilic Jumping Spider",
+                "description": "Game 3, Monterey Bay League Division Series 2",
+                "gameid": "50d536a8-baf8-46ad-aeab-7d7e2cbc5848",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SBC",
+                "team2Abbr": "BBR",
+                "patternName": "vector",
+                "rule": "221112000222111000001002120",
+                "ruleName": "Rule 198 Half Moon Swamp Camel Spider",
+                "description": "Game 3, San Francisco Bay League Division Series 1",
+                "gameid": "105be791-d3c8-40c8-9b97-7feae59fbca1",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Richmond Slicks",
+                "team1Abbr": "MVM",
+                "team2Abbr": "RS",
+                "patternName": "towers",
+                "rule": "110120221120220112000000120",
+                "ruleName": "Rule 178 New Moon Electric Jumping Spider",
+                "description": "Game 3, San Francisco Bay League Division Series 2",
+                "gameid": "b6670c98-ea70-4240-92bd-d6c3e8cedaf9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Santa Cruz Bananas",
+                "team2Name": "Monterey Meteorologists",
+                "team1Abbr": "SCB",
+                "team2Abbr": "MM",
+                "patternName": "lake",
+                "rule": "002002221001001112221112000",
+                "ruleName": "Rule 124 Electric Cellar Spider",
+                "description": "Game 4, Monterey Bay League Division Series 1",
+                "gameid": "08e3e4cb-2e58-45f3-ada4-8433ce0fd58b",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Boulder Creek Cardsharps",
+                "team2Name": "Carmel Yacht Club",
+                "team1Abbr": "BCC",
+                "team2Abbr": "CYC",
+                "patternName": "isotropic",
+                "rule": "121122000121122000002001210",
+                "ruleName": "Rule 198 Waxing Crescent Thermophilic Toucan",
+                "description": "Game 4, Monterey Bay League Division Series 2",
+                "gameid": "5766db3e-0026-4cf8-9ebd-7d2595509c73",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Sausalito Bouncy Castles",
+                "team2Name": "Berkeley Brutalists",
+                "team1Abbr": "SBC",
+                "team2Abbr": "BBR",
+                "patternName": "starfield",
+                "rule": "221222002112111001000000210",
+                "ruleName": "Rule 210 Waning Gibbous Swamp Turkey",
+                "description": "Game 4, San Francisco Bay League Division Series 1",
+                "gameid": "b7e0932c-f2c4-4e68-9795-bf8f8a7b7409",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Mountain View Miners",
+                "team2Name": "Richmond Slicks",
+                "team1Abbr": "MVM",
+                "team2Abbr": "RS",
+                "patternName": "waterfall",
+                "rule": "002001212001002121210120210",
+                "ruleName": "Rule 122 Cave Oriole",
+                "description": "Game 4, San Francisco Bay League Division Series 2",
+                "gameid": "bc9745d0-ed26-41bd-b860-aee5c86410c7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Monterey Meteorologists",
+                "team2Name": "Santa Cruz Bananas",
+                "team1Abbr": "MM",
+                "team2Abbr": "SCB",
+                "patternName": "river",
+                "rule": "220220221110110112000000120",
+                "ruleName": "Rule 178 Waning Gibbous Electric Shepherd Spider",
+                "description": "Game 5, Monterey Bay League Division Series 1",
+                "gameid": "9f18cf0f-5291-4398-b60b-58f469defe48",
+                "isPostseason": true
+            },
+            {
+                "league": "Monterey Bay League",
+                "season": 15,
+                "team1Name": "Carmel Yacht Club",
+                "team2Name": "Boulder Creek Cardsharps",
+                "team1Abbr": "CYC",
+                "team2Abbr": "BCC",
+                "patternName": "towers",
+                "rule": "112122002121221001000000210",
+                "ruleName": "Rule 210 New Moon Electric Magpie",
+                "description": "Game 5, Monterey Bay League Division Series 2",
+                "gameid": "44d6b0ab-287c-4e1d-a1dc-e21958108351",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Berkeley Brutalists",
+                "team2Name": "Sausalito Bouncy Castles",
+                "team1Abbr": "BBR",
+                "team2Abbr": "SBC",
+                "patternName": "supercritical",
+                "rule": "220210002210110001120210210",
+                "ruleName": "Rule 154 Full Moon Swamp Boobie",
+                "description": "Game 5, San Francisco Bay League Division Series 1",
+                "gameid": "50a7fec6-feec-49bb-81b3-335ad2bb148b",
+                "isPostseason": true
+            },
+            {
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "team1Name": "Richmond Slicks",
+                "team2Name": "Mountain View Miners",
+                "team1Abbr": "RS",
+                "team2Abbr": "MVM",
+                "patternName": "lake",
+                "rule": "000000001000000002121122120",
+                "ruleName": "Rule 30 Thermophilic Silk Spider",
+                "description": "Game 5, San Francisco Bay League Division Series 2",
+                "gameid": "3a74c024-427f-40c6-8912-7b1cddb43725",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "matrix",
+                "league": "Monterey Bay League",
+                "season": 15,
+                "rule": "110110112220220221000000210",
+                "ruleName": "Rule 178 Waning Crescent Deep Water Woodpecker",
+                "description": "Game 1, Monterey Bay League Championship Series",
+                "gameid": "90d72323-392f-4b3f-a8df-92e9d5ac48db",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "starfield",
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "rule": "111122001122221002120210120",
+                "ruleName": "Rule 218 New Moon Swamp Tick",
+                "description": "Game 1, San Francisco Bay League Championship Series",
+                "gameid": "8183c609-59d3-4976-a041-b199821b12fa",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lighthouse",
+                "league": "Monterey Bay League",
+                "season": 15,
+                "rule": "210210211210210122001002120",
+                "ruleName": "Rule 182 Waxing Gibbous Cave Tarantula",
+                "description": "Game 2, Monterey Bay League Championship Series",
+                "gameid": "2409e4f9-c340-42f8-97e5-4304a0ff6c6e",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lake",
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "rule": "212211000212211000001002120",
+                "ruleName": "Rule 198 Waxing Gibbous Quantum Mite",
+                "description": "Game 2, San Francisco Bay League Championship Series",
+                "gameid": "f2c3ee3a-4e79-4754-b03a-65249a1c8ba9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "river",
+                "league": "Monterey Bay League",
+                "season": 15,
+                "rule": "002002001001001002220110120",
+                "ruleName": "Rule 90 Electric Pseudoscorpion",
+                "description": "Game 3, Monterey Bay League Championship Series",
+                "gameid": "e63398aa-3f03-489e-a5db-33d97fc0978c",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lighthouse",
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "rule": "110110111220220222001002120",
+                "ruleName": "Rule 182 Waning Crescent Deep Water Lampshade Spider",
+                "description": "Game 3, San Francisco Bay League Championship Series",
+                "gameid": "1a532b1c-0d3a-47e7-87b3-4a1a4a215bbc",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "vector",
+                "league": "Monterey Bay League",
+                "season": 15,
+                "rule": "222111002221112001210120210",
+                "ruleName": "Rule 218 Half Moon Cave Falcon",
+                "description": "Game 4, Monterey Bay League Championship Series",
+                "gameid": "3144f2b6-68c0-4941-96aa-bcb7e181765a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "matrix",
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "rule": "110110222220220111000000210",
+                "ruleName": "Rule 178 Waning Crescent Electric Turkey",
+                "description": "Game 4, San Francisco Bay League Championship Series",
+                "gameid": "e9e41f0a-0abc-4fc2-a31f-6184b92fbe07",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "waterfall",
+                "league": "Monterey Bay League",
+                "season": 15,
+                "rule": "220220121110110122000000120",
+                "ruleName": "Rule 178 Waning Gibbous Thermophilic Sea Spider",
+                "description": "Game 5, Monterey Bay League Championship Series",
+                "gameid": "82b64d73-d68b-4a2d-965d-d1851cb1f9e6",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "vector",
+                "league": "San Francisco Bay League",
+                "season": 15,
+                "rule": "220210002210110001210210210",
+                "ruleName": "Rule 154 Full Moon Quantum Stork",
+                "description": "Game 5, San Francisco Bay League Championship Series",
+                "gameid": "1521afb5-6570-4a6c-8360-5298eb52eb71",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "DCS": [
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "matrix",
+                "rule": "110120122120220211002001210",
+                "ruleName": "Rule 182 New Moon Swamp Parrot",
+                "description": "Game 1, Dragon Cup",
+                "season": 15,
+                "gameid": "55cf1120-250f-46ec-8035-c98458ea6362",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lighthouse",
+                "rule": "222212000211111000002001210",
+                "ruleName": "Rule 198 Full Moon Electric Trumpeter",
+                "description": "Game 2, Dragon Cup",
+                "season": 15,
+                "gameid": "4f8740d6-bbc7-46d5-bd07-c790bfa49343",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "lake",
+                "rule": "121122000121122000002001210",
+                "ruleName": "Rule 198 Waxing Crescent Thermophilic Toucan",
+                "description": "Game 3, Dragon Cup",
+                "season": 15,
+                "gameid": "097b28a4-ac89-41c5-91c6-9396e34a672b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "vector",
+                "rule": "210210112210210221002001210",
+                "ruleName": "Rule 182 Waxing Gibbous Deep Water Flycatcher",
+                "description": "Game 4, Dragon Cup",
+                "season": 15,
+                "gameid": "1c21f5f1-5067-4f53-8ba3-e0d13ce3e14f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "San Francisco Bay League",
+                "team2Name": "Monterey Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "towers",
+                "rule": "111121001122222002000000120",
+                "ruleName": "Rule 210 New Moon Deep Water Tarantula",
+                "description": "Game 5, Dragon Cup",
+                "season": 15,
+                "gameid": "8c4237f4-f64a-43b8-8f21-d6de605229dd",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "starfield",
+                "rule": "000000002000000001212211210",
+                "ruleName": "Rule 30 Quantum Cukoo",
+                "description": "Game 6, Dragon Cup",
+                "season": 15,
+                "gameid": "6757e8fb-748c-4034-9759-fd4dc37fd4ed",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Monterey Bay League",
+                "team2Name": "San Francisco Bay League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "river",
+                "rule": "210210121210210122000000120",
+                "ruleName": "Rule 178 Waxing Gibbous Thermophilic Armor Spider",
+                "description": "Game 7, Dragon Cup",
+                "season": 15,
+                "gameid": "4a0a1ea2-49aa-489f-b861-ceee79d5128d",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
